@@ -5,6 +5,9 @@ Cześć. Ja jestem Monika i bardzo miło mi gościć Cię na moim GitHubie. Jest
 # Moje projekty:
 
 •	miniaplikacje (JavaScript, jQuery, Ajax, API)
+
 •	strony internetowe (HTML, CSS, RWD, Bootstrap)
+
 •	komponenty do budowy stron internetowych (menu, galerie, itp.)
+
 •	proste ćwiczenia, które wprowadziły mnie w świat programowania   
